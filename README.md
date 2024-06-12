@@ -1,4 +1,5 @@
 # Laptop Price Predictor
+#### App: https://laptop-price-predictor-vaibhav-xo.streamlit.app/
 
 # Project Objective
 The goal of this project is to build a robust machine learning model that predicts laptop prices accurately. As the laptop market continues to expand with various brands and specifications, having a precise pricing model becomes crucial for both consumers and manufacturers. The project also has one user friendly interface that helps the user to enter their desired configurations and predict the price of their dream laptops.
