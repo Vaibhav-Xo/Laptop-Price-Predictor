@@ -5,7 +5,7 @@
 The goal of this project is to build a robust machine learning model that predicts laptop prices accurately. As the laptop market continues to expand with various brands and specifications, having a precise pricing model becomes crucial for both consumers and manufacturers. The project also has one user friendly interface that helps the user to enter their desired configurations and predict the price of their dream laptops.
 
 # Overview of Project
-This is a end-to-end Machine Learining Project that uses a Supervised Learning Regression Model which has been trained upon laptop dataset using a series of regreesion algorithims. The project EDA and Model Training part is conducted using Jupyter Notebook and the Application is generated upon Visual Studio Code. Libraries like Sklearn and Streamlit have been used in the process. The web-application is being hosted upon Streamlit Share  
+This is a end-to-end Machine Learning Project that uses a Supervised Learning Regression Model which has been trained upon laptop dataset using a series of regression algorithms. The project EDA and Model Training part is conducted using Jupyter Notebook and the Application is generated upon Visual Studio Code. Libraries like Sklearn and Streamlit have been used in the process. The web-application is being hosted upon Streamlit Share.  
 
 
 # About Dataset
@@ -16,18 +16,18 @@ The underlying dataset consist around 1303 records and 13 features. Among the fe
 * Import the dataset and explore its shape, sample, and presence of NULL values, duplicate records, missing values, rubbish values.
 
 ### Feature Engineering:
-* Extract relevant features from the dataset.
+* Extract relevant features from the dataset and changing datatypes of features.
 * Transform and create new features to enhance model performance.
 
-### Data Visualzation:
+### Data Visualization:
 * Visualizing the data and the patterns that it create by performing Univariate, Bivariate and Multivariate Analysis using various various types of charts.
 
 ### Feature Selection:
-* Selecting the appropriate features that effect the price of the laptop by checking their cooreleation with the dependent variable.
+* Selecting the appropriate features that affect the price of the laptop by checking their correlation with the dependent variable.
 
-### Machine Learning Modeling:
-* Traing differnt regression  algorithms like (linear regression, decision trees, gradient boost etc.).
-* Evaluate model performance using metrics like RMSE (Root Mean Squared Error, Mean Absolute Error, Root Mean Squared Error ).
+### ML Model Development:
+* Training different regression  algorithms like (linear regression, decision trees, gradient boost etc.).
+* Evaluate model performance using metrics like (R2_Score, Mean Absolute Error, Mean Squared Error ).
 * Selecting the best model.
 
 ### Web App Development:
