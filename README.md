@@ -1,4 +1,6 @@
 # Laptop Price Predictor
+![Screenshot 2024-06-20 100846](https://github.com/Vaibhav-Xo/Laptop-Price-Predictor/assets/172389348/a2b8dbf0-5660-40a3-b1c3-136e3d4f15a1)
+
 #### App: https://laptop-price-predictor-vaibhav-xo.streamlit.app/
 
 # Project Objective
