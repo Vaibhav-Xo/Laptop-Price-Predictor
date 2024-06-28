@@ -22,7 +22,7 @@ The underlying dataset consist around 1303 records and 13 features. Among the fe
 * Transform and create new features to enhance model performance.
 
 ### Data Visualization:
-* Visualizing the data and the patterns that it create by performing Univariate, Bivariate and Multivariate Analysis using various various types of charts.
+* Visualizing the data and the patterns that it create by performing Univariate, Bivariate Analysis using various various types of charts.
 
 ### Feature Selection:
 * Selecting the appropriate features that affect the price of the laptop by checking their correlation with the dependent variable.
